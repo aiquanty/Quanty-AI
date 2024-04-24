@@ -1,0 +1,13 @@
+python-dotenv
+langchain-openai
+langchain
+tiktoken
+qdrant-client
+pypdf
+cohere
+unstructured
+docx2txt
+python-magic-bin
+flask
+jsonify
+uuid
